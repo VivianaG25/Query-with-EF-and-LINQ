@@ -1,9 +1,6 @@
 ﻿/* 
  *  
  *  
-Lab2 program for CECS 475
-Programmer: Maryith Viviana G
-Date: March 11, 2024
 Description: The application uses Entity Framework and LINQ queries to interact with a database 
 named "Books" and retrieve specific information. Tasks include fetching lists of titles alongside 
 their corresponding authors, ensuring alphabetical sorting, and grouping authors by title with further 
